@@ -1,0 +1,23 @@
+{
+    "name": "mailparse",
+    "version": "2.1.6",
+    "type": "extension",
+    "license": [
+        "PHP"
+    ],
+    "authors": [
+        {
+            "name": "Wez Furlong",
+            "email": "wez@php.net"
+        },
+        {
+            "name": "Brian Shire",
+            "email": "shire@php.net"
+        },
+        {
+            "name": "John Jawed",
+            "email": "jawed@php.net"
+        }
+    ],
+    "description": "Email message manipulation"
+}
