@@ -165,7 +165,7 @@ if (!isset($_SESSION['access_token'])) {
     <script src="assets/js/jquery-1.10.2.js" type="text/javascript"></script>
     <script src="assets/js/bootstrap.min.js" type="text/javascript"></script>
     <script src="assets/js/bootstrap-checkbox-radio-switch.js"></script>
-    <script src="assets/js/chartist.min.js"></script>
+    <!-- <script src="assets/js/chartist.min.js"></script> -->
     <script src="assets/js/bootstrap-notify.js"></script>
     <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?sensor=false"></script>
     <script src="assets/js/light-bootstrap-dashboard.js"></script>
@@ -175,7 +175,7 @@ if (!isset($_SESSION['access_token'])) {
         	demo.initChartist();
           $.notify({
           icon: 'pe-7s-gift',
-          message: "Welcome to <b>Light Bootstrap Dashboard</b> - a beautiful freebie for every web developer."
+          message: "Selamat datang di Enkripsi Gmail"
           },{
           type: 'info',
           timer: 4000
