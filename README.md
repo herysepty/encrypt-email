@@ -18,10 +18,5 @@ Edit `helpers/config.ini` and add your API console credentials
     client_secret = "<CLIENT SECRET>"
     redirect_url = "<REDIRECT URI>"
 
-#### Credits
-This GMail API PHP Starter project is provided by [GDG Bingham University](http://bhu.gdg.ng) as an example of using the GMail API with vanilla/procedural PHP.
- 
-**Note:** Do not use this as production code. It is provided as a reference to get you started building amazing apps.
-
 #### Edited BY HS
-[Hery septyadi](http://heryseptyadi.cf) 
+[Hery septyadi](http://heryseptyadi.com) 
